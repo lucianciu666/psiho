@@ -2,8 +2,8 @@
 title: Sagan ipsum
 excerpt: Hydrogen atoms colonies bits of moving fluff cosmic fugue gathered by gravity
   shores of the cosmic ocean.
-date: 2019-04-21T17:00:00.000+00:00
-author: Loke Carlsson
+date: 2020-07-07 16:59:00 +0000
+author: Eduardo Salamanca
 image: "/uploads/space.svg"
 
 ---
