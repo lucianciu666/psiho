@@ -1,6 +1,6 @@
 <template>
 	<Layout>
-		<img class="greet-image" src="../../uploads/hello.svg"/>
+		<g-image class="greet-image" src="../../uploads/hello.svg"/>
 
 		<h2 class="mb-4">Gridsome starter bootstrap</h2>
 		<p>
@@ -57,10 +57,10 @@
 
 		<a href="https://app.forestry.io/quick-start?repo=LokeCarlsson/gridsome-starter-bootstrap&amp;provider=github&amp;engine=vuepress"
 		   target="_blank" rel="nofollow">
-			<img class="mt-3 mb-3"
-			     src="https://camo.githubusercontent.com/2455e97e4e989374a355fb0bea7ad364f2561c92/68747470733a2f2f6173736574732e666f7265737472792e696f2f696d706f72742d746f2d666f7265737472794b2e737667"
-			     alt="Import this project into Forestry"
-			     data-canonical-src="https://assets.forestry.io/import-to-forestryK.svg" style="max-width:100%;"/>
+			<g-image class="mt-3 mb-3"
+			         src="https://camo.githubusercontent.com/2455e97e4e989374a355fb0bea7ad364f2561c92/68747470733a2f2f6173736574732e666f7265737472792e696f2f696d706f72742d746f2d666f7265737472794b2e737667"
+			         alt="Import this project into Forestry"
+			         data-canonical-src="https://assets.forestry.io/import-to-forestryK.svg" style="max-width:100%;"/>
 		</a>
 
 		<h3 class="mt-4 mb-4">Netlify config</h3>
