@@ -15,6 +15,7 @@
 		"gridsome": "^0.7.19",
 		"jquery": "^3.5.1",
 		"node-sass": "^4.13.0",
-		"sass-loader": "^9.0.2"
+		"sass-loader": "^9.0.2",
+		"yarn": "^1.22.4"
 	}
 }
