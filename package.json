@@ -12,11 +12,15 @@
 		"@gridsome/transformer-remark": "^0.6.1",
 		"bootstrap": "^4.5.0",
 		"bootstrap-vue": "^2.15.0",
+		"browserslist": "^4.13.0",
+		"caniuse-lite": "^1.0.30001096",
 		"gridsome": "^0.7.19",
 		"jquery": "^3.5.1",
 		"node-sass": "^4.14.1",
 		"popper": "^1.0.1",
+		"popper.js": "^1.16.1",
 		"sass-loader": "^9.0.2",
+		"upgrade": "^1.1.0",
 		"yarn": "^1.22.4"
 	}
 }
