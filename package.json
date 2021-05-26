@@ -12,7 +12,7 @@
 		"@gridsome/transformer-remark": "^0.6.1",
 		"bootstrap": "^4.5.0",
 		"bootstrap-vue": "^2.15.0",
-		"browserslist": "^4.13.0",
+		"browserslist": "^4.16.5",
 		"caniuse-lite": "^1.0.30001096",
 		"gridsome": "^0.7.19",
 		"jquery": "^3.5.1",
